@@ -1,0 +1,17 @@
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Infrastructure\bin\Release\net6.0\TiendaDeAlimentos.Infrastructure.deps.json
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Infrastructure\bin\Release\net6.0\TiendaDeAlimentos.Infrastructure.dll
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Infrastructure\bin\Release\net6.0\TiendaDeAlimentos.Infrastructure.pdb
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Infrastructure\bin\Release\net6.0\TiendaDeAlimentos.Core.Application.dll
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Infrastructure\bin\Release\net6.0\TiendaDeAlimentos.Core.Entities.dll
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Infrastructure\bin\Release\net6.0\TiendaDeAlimentos.Core.Application.pdb
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Infrastructure\bin\Release\net6.0\TiendaDeAlimentos.Core.Entities.pdb
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Infrastructure\obj\Release\net6.0\TiendaDeAlimentos.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Infrastructure\obj\Release\net6.0\TiendaDeAlimentos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Infrastructure\obj\Release\net6.0\TiendaDeAlimentos.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Infrastructure\obj\Release\net6.0\TiendaDeAlimentos.Infrastructure.AssemblyInfo.cs
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Infrastructure\obj\Release\net6.0\TiendaDeAlimentos.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Infrastructure\obj\Release\net6.0\TiendaDeAlimentos.Infrastructure.csproj.CopyComplete
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Infrastructure\obj\Release\net6.0\TiendaDeAlimentos.Infrastructure.dll
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Infrastructure\obj\Release\net6.0\refint\TiendaDeAlimentos.Infrastructure.dll
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Infrastructure\obj\Release\net6.0\TiendaDeAlimentos.Infrastructure.pdb
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Infrastructure\obj\Release\net6.0\ref\TiendaDeAlimentos.Infrastructure.dll

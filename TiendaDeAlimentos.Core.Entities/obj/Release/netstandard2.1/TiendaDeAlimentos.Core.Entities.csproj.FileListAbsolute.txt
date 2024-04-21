@@ -1,0 +1,9 @@
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Core.Entities\bin\Release\netstandard2.1\TiendaDeAlimentos.Core.Entities.deps.json
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Core.Entities\bin\Release\netstandard2.1\TiendaDeAlimentos.Core.Entities.dll
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Core.Entities\bin\Release\netstandard2.1\TiendaDeAlimentos.Core.Entities.pdb
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Core.Entities\obj\Release\netstandard2.1\TiendaDeAlimentos.Core.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Core.Entities\obj\Release\netstandard2.1\TiendaDeAlimentos.Core.Entities.AssemblyInfoInputs.cache
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Core.Entities\obj\Release\netstandard2.1\TiendaDeAlimentos.Core.Entities.AssemblyInfo.cs
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Core.Entities\obj\Release\netstandard2.1\TiendaDeAlimentos.Core.Entities.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Core.Entities\obj\Release\netstandard2.1\TiendaDeAlimentos.Core.Entities.dll
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Core.Entities\obj\Release\netstandard2.1\TiendaDeAlimentos.Core.Entities.pdb

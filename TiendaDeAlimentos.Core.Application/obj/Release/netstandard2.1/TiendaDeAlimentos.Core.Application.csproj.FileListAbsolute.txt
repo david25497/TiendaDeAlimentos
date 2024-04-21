@@ -1,0 +1,13 @@
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Core.Application\bin\Release\netstandard2.1\TiendaDeAlimentos.Core.Application.deps.json
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Core.Application\bin\Release\netstandard2.1\TiendaDeAlimentos.Core.Application.dll
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Core.Application\bin\Release\netstandard2.1\TiendaDeAlimentos.Core.Application.pdb
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Core.Application\bin\Release\netstandard2.1\TiendaDeAlimentos.Core.Entities.dll
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Core.Application\bin\Release\netstandard2.1\TiendaDeAlimentos.Core.Entities.pdb
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Core.Application\obj\Release\netstandard2.1\TiendaDeAlimentos.Core.Application.csproj.AssemblyReference.cache
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Core.Application\obj\Release\netstandard2.1\TiendaDeAlimentos.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Core.Application\obj\Release\netstandard2.1\TiendaDeAlimentos.Core.Application.AssemblyInfoInputs.cache
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Core.Application\obj\Release\netstandard2.1\TiendaDeAlimentos.Core.Application.AssemblyInfo.cs
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Core.Application\obj\Release\netstandard2.1\TiendaDeAlimentos.Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Core.Application\obj\Release\netstandard2.1\TiendaDeAlimentos.Core.Application.csproj.CopyComplete
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Core.Application\obj\Release\netstandard2.1\TiendaDeAlimentos.Core.Application.dll
+C:\Users\PREDATOR\source\repos\TiendaDeAlimentos_API\TiendaDeAlimentos.Core.Application\obj\Release\netstandard2.1\TiendaDeAlimentos.Core.Application.pdb
